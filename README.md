@@ -29,6 +29,5 @@ The dashboard provides a comprehensive view of sales performance, enabling users
 ## Dashboard
 <img width="1321" height="744" alt="Screenshot 2026-05-05 120513" src="https://github.com/user-attachments/assets/ccec9aa1-5578-4cbb-8c06-6e805a3c6b1f" />
 
-
-
-
+## Conclusion
+This project demonstrates how raw data can be transformed into meaningful insights using business intelligence tools. It is ideal for learning data visualization, dashboard design, and analytical storytelling.  
