@@ -17,6 +17,7 @@ The dashboard provides a comprehensive view of sales performance, enabling users
   
 ## Dashboard Interaction
 - <a href="https://github.com/Nithin3020/Sales-Dashboard/blob/main/SALESDASHBOARD.pbix">View Dashboard</a>
+
 ## Key Features 
 -	Revenue Analysis – Track total sales, profit, and growth trends  
 -	Time-Based Insights – Monthly and yearly performance breakdown  
@@ -25,3 +26,4 @@ The dashboard provides a comprehensive view of sales performance, enabling users
 -	Customer Insights – Understand purchasing behavior and segmentation  
 -	Interactive Filters – Dynamic slicers for customized data exploration  
 
+## Dashboard
