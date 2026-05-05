@@ -15,4 +15,5 @@ The dashboard provides a comprehensive view of sales performance, enabling users
 -	Are there any underperforming regions or products? 
 -	How does customer segmentation impact sales?
   
-## Dashboard Interaction <a href="https://github.com/Nithin3020/Sales-Dashboard/blob/main/SALESDASHBOARD.pbix">View Dashboard</a>
+## Dashboard Interaction
+<a href="https://github.com/Nithin3020/Sales-Dashboard/blob/main/SALESDASHBOARD.pbix">View Dashboard</a>
