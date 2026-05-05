@@ -28,4 +28,8 @@ The dashboard provides a comprehensive view of sales performance, enabling users
 
 ## Dashboard
 <img width="1920" height="1011" alt="Screenshot 2026-05-05 120453" src="https://github.com/user-attachments/assets/5b3a1fbb-8ddf-40b7-abc4-f0560e863ab1" />
+<img width="1321" height="744" alt="Screenshot 2026-05-05 120513" src="https://github.com/user-attachments/assets/ccec9aa1-5578-4cbb-8c06-6e805a3c6b1f" />
+<img width="1314" height="731" alt="Screenshot 2026-05-05 120537" src="https://github.com/user-attachments/assets/979a328d-ae10-49fd-8430-2961ee50a205" />
+
+
 
