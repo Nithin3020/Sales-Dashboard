@@ -27,3 +27,4 @@ The dashboard provides a comprehensive view of sales performance, enabling users
 -	Interactive Filters – Dynamic slicers for customized data exploration  
 
 ## Dashboard
+https://github.com/Nithin3020/Sales-Dashboard/blob/main/Screenshot%202026-05-05%20120453.png
